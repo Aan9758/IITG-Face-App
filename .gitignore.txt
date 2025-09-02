@@ -1,0 +1,13 @@
+Ignore Python's cache
+pycache/
+*.pyc
+
+Ignore the dataset folder for privacy and size
+dataset/
+
+Ignore the large generated embeddings file
+known_faces_data.pkl
+
+Ignore virtual environments
+venv/
+*.env
